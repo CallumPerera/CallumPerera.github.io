@@ -20,17 +20,18 @@ My first album! Available 18th May.
 
 
 | **Track** | **Length** |
-| :--- | ---: |
-| Silly Little Samples | 2:33 |
-| Simple Man | 2:47 |
-| Bound by Nightmare | 3:46 |
-| Last Time Together | 4:21 |
-| Don't act Famous, Stupid-Face | 2:54 |
-| Song that plays\* | 1:24 |
-| Knock Off | 1:56 |
-| Emosh | 2:50 |
-| \...and that's the album | 0:38 |
+| :-------- | ---------: |
+| **Silly Little Samples** | 2:33 |
+| **Simple Man** | 2:47 |
+| **Bound by Nightmare** | 3:46 |
+| **Last Time Together** | 4:21 |
+| **Don't act Famous, Stupid-Face** | 2:54 |
+| **Song that plays\*** | 1:24 |
+| **Knock Off** | 1:56 |
+| **Emosh** | 2:50 |
+| **\...and that's the album** | 0:38 |
 | **Total Length** | 23:09 |
+
 ##### * Song that plays when you don't know what the f\--k is going on but you still ask anyways
 
 * * *
