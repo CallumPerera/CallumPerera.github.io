@@ -63,10 +63,4 @@ and [192K WAV](https://github.com/CallumPerera/CallumPerera.github.io/releases/d
 
 * * *
 
-# Contact
-### Contact at: kingcallum011@gmail.com
-### Alternative contact: callums3rdemail@gmail.com
-
-* * *
-
 ###### © - Callum Perera 2023, 2024 - with [DITTO](https://vrlps.co/bt9ss4f/cp).
