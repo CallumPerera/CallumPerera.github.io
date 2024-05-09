@@ -26,6 +26,12 @@ layout: default
 | Emosh | `2:50` |
 | ...and that's the album | `0:38` |
 
+| Track | Length |
+| :--- | ---: |
+| `track` | `length` |
+| `track 2` | `length 2` |
+| `track  3` | `length 3` |
+
 ## Loneliness - Single
 "Loneliness" was the soundtrack for a college experimental film I did.
 
