@@ -3,6 +3,7 @@ layout: default
 ---
 
 # **Callum Perera**
+### Silly Music, by a Silly Man!
 ## **WHO ARE YOU?** out 18th May
 * * *
 
@@ -61,10 +62,10 @@ Produced from 14th November 2023 - 18th January 2024.
 [Tidal](https://tidal.com/browse/album/341526225), 
 and [Pandora](https://ditto.fm/loneliness-callum-perera).
 
-**Loneliness** is also available in digital download, only on this website!
-- [44.1K MP3](https://github.com/CallumPerera/CallumPerera.github.io/releases/download/LonelinessSingle/Callum.Perera.-.Loneliness.MP3.44.1K.mp3)
-- [96K WAV](https://github.com/CallumPerera/CallumPerera.github.io/releases/download/LonelinessSingle/Callum.Perera.-.Loneliness.WAV.96K.wav)
-- [192K WAV](https://github.com/CallumPerera/CallumPerera.github.io/releases/download/LonelinessSingle/Callum.Perera.-.Loneliness.WAV.192K.wav) - complete overkill
+**Loneliness** is also available in digital download, only on this website! Available in 
+[44.1K MP3](https://github.com/CallumPerera/CallumPerera.github.io/releases/download/LonelinessSingle/Callum.Perera.-.Loneliness.MP3.44.1K.mp3),
+[96K WAV](https://github.com/CallumPerera/CallumPerera.github.io/releases/download/LonelinessSingle/Callum.Perera.-.Loneliness.WAV.96K.wav),
+and [192K WAV](https://github.com/CallumPerera/CallumPerera.github.io/releases/download/LonelinessSingle/Callum.Perera.-.Loneliness.WAV.192K.wav).
 
 
 
