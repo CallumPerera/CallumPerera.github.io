@@ -27,13 +27,12 @@ Mark *that* in your calendars, stupid faces!
 | **Bound by Nightmare** | 3:46 |
 | **Last Time Together** | 4:21 |
 | **Don't act Famous, Stupid-Face** | 2:54 |
-| **Song that plays\*** | 1:24 |
+| **Song that plays when you don't know what the f\--k is going on but you still ask anyways** | 1:24 |
 | **Knock Off** | 1:56 |
 | **Emosh** | 2:50 |
 | **\...and that's the album** | 0:38 |
 | **Total Length** | 23:09 |
 
-##### * Song that plays when you don't know what the f\--k is going on but you still ask anyways
 
 ### Info
 
@@ -63,15 +62,12 @@ Produced from 14th November 2023 - 18th January 2024.
 and [Pandora](https://ditto.fm/loneliness-callum-perera).
 
 **Loneliness** is also available in digital download, only on this website!
-
-| **Track**  | **Quality** |
-| :---       |       ---: |
-| **Loneliness** | 48K   |
-| **Loneliness** | 96K   |
-| **Loneliness** | 96K WAV   |
-| **Loneliness** | 192K WAV   |
+- [44.1K MP3](https://github.com/CallumPerera/CallumPerera.github.io/releases/download/LonelinessSingle/Callum.Perera.-.Loneliness.MP3.44.1K.mp3)
+- [96K WAV](https://github.com/CallumPerera/CallumPerera.github.io/releases/download/LonelinessSingle/Callum.Perera.-.Loneliness.WAV.96K.wav)
+- [192K WAV](https://github.com/CallumPerera/CallumPerera.github.io/releases/download/LonelinessSingle/Callum.Perera.-.Loneliness.WAV.192K.wav) - complete overkill
 
 
 
 * * *
 ###### © - Callum Perera 2023, 2024
+###### Releases to Digital Stores using [DITTO](https://vrlps.co/bt9ss4f/cp).
