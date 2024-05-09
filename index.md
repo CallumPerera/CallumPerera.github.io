@@ -8,6 +8,7 @@ layout: default
 
 # Contact
 ### Contact at: kingcallum011@gmail.com
+### Alternative contact: callums3rdemail@gmail.com
 
 * * *
 
@@ -16,8 +17,8 @@ layout: default
 * * *
 
 ## WHO ARE YOU?
-My first album! Available 18th May.
-
+My first album! Available __***18th May***__.
+Mark *that* in your calendars, stupid faces!
 
 | **Track** | **Length** |
 | :-------- | ---------: |
@@ -34,16 +35,26 @@ My first album! Available 18th May.
 
 ##### * Song that plays when you don't know what the f\--k is going on but you still ask anyways
 
+### Info
+
+Produced from 28th January 2024 - 8th May 2024.
+
+Song breakdowns, meanings and other info yet to come!
+
+**WHO ARE YOU?** is not available just yet! 
+
 * * *
 
 ## Loneliness - Single
 "Loneliness" was the soundtrack for a college experimental film.
-Released on the 28th January 2024
+Released on the 28th January 2024.
 
 | **Track**  | **Length** |
 | :---       |       ---: |
-| Loneliness | 2:07       |
+| **Loneliness** | 2:07   |
 
+### Info
+Produced from 14th November 2023 - 18th January 2024.
 
 **Loneliness** is available on: [Spotify](https://open.spotify.com/album/0I970afxcwGdTYYvdOXJKr), 
 [Amazon Music](https://music.amazon.com/albums/B0CT3SM2GL?ref=dm_ff_featurefm&tag=dittomusic-21),
@@ -51,4 +62,16 @@ Released on the 28th January 2024
 [Tidal](https://tidal.com/browse/album/341526225), 
 and [Pandora](https://ditto.fm/loneliness-callum-perera).
 
+**Loneliness** is also available in digital download, only on this website!
+
+| **Track**  | **Quality** |
+| :---       |       ---: |
+| **Loneliness** | 48K   |
+| **Loneliness** | 96K   |
+| **Loneliness** | 96K WAV   |
+| **Loneliness** | 192K WAV   |
+
+
+
 * * *
+###### © - Callum Perera 2023, 2024
