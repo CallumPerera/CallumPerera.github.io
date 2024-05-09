@@ -7,12 +7,6 @@ layout: default
 ## **WHO ARE YOU?** out 18th May
 * * *
 
-# Contact
-### Contact at: kingcallum011@gmail.com
-### Alternative contact: callums3rdemail@gmail.com
-
-* * *
-
 # RELEASES
 
 * * *
@@ -67,8 +61,12 @@ and [Pandora](https://ditto.fm/loneliness-callum-perera).
 [96K WAV](https://github.com/CallumPerera/CallumPerera.github.io/releases/download/LonelinessSingle/Callum.Perera.-.Loneliness.WAV.96K.wav),
 and [192K WAV](https://github.com/CallumPerera/CallumPerera.github.io/releases/download/LonelinessSingle/Callum.Perera.-.Loneliness.WAV.192K.wav).
 
+* * *
 
+# Contact
+### Contact at: kingcallum011@gmail.com
+### Alternative contact: callums3rdemail@gmail.com
 
 * * *
-###### © - Callum Perera 2023, 2024
-###### Releases to Digital Stores using [DITTO](https://vrlps.co/bt9ss4f/cp).
+
+###### © - Callum Perera 2023, 2024 - with [DITTO](https://vrlps.co/bt9ss4f/cp).
